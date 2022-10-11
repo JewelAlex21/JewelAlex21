@@ -1,13 +1,13 @@
-<h1 align="center">Hi , I'm Muhammed Mukthar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Jewel Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Javascript+Developer;Nodejs+Express+Mongodb;Reactjs;DS%20|%20Algorithms%20;Specialist%20on%20Debugging;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Javascript+Developer;Nodejs+Express+Mongodb;Reactjs;AngularjsDS%20|;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=muhammed-mukthar&label=Profile%20views&color=0e75b6&style=plastic" alt="muhammed_mukthar" /> 
+	<img src="https://komarev.com/ghpvc/?username=jewel_alex&label=Profile%20views&color=0e75b6&style=plastic" alt="jewel_alex" /> 
 </p>
 
 ### * Languages
