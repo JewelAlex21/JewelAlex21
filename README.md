@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jewel Alex
-- 👀 Full Stack Developer
-- 🌱 React| Angular| Node js
+-  Full Stack Developer
+-  React| Angular| Node js | MongoDB
 -  Always Learning new things..
 
 
