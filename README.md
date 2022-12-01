@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jewel Alex</h1>
-<h3 align="center">I’m a MEA(R)N Full Stack developer based in Ernakulam, Kerala, curious to learn more about developing scalable distributed systems, loves problem solving and cares about writing readable as well as maintainable code.</h3>
+<h3 align="center">I’m a Software developer based in Ernakulam, Kerala, curious to learn more about developing scalable distributed systems, loves problem solving and cares about writing readable as well as maintainable code.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
